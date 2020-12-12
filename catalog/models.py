@@ -104,4 +104,4 @@ class Author(models.Model):
         """
         String for representing the Model object.
         """
-        return '{self.last_name} {self.first_name}'
+        return f'{self.last_name} {self.first_name}'
