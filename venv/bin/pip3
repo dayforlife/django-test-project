@@ -1,4 +1,4 @@
-#!/home/hello/Desktop/locallibrary/venv/bin/python3
+#!/Users/hello/Desktop/django-test-project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
